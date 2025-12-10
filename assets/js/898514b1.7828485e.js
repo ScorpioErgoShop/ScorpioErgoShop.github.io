@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkkb_guide=globalThis.webpackChunkkb_guide||[]).push([[67],{9187:a=>{a.exports=JSON.parse('{"tags":[{"label":"Faq","permalink":"/docs/tags/faq","count":1},{"label":"zmk","permalink":"/docs/tags/zmk","count":3},{"label":"split keyboard","permalink":"/docs/tags/split-keyboard","count":3}]}')}}]);

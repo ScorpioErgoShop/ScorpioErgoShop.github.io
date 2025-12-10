@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkkb_guide=globalThis.webpackChunkkb_guide||[]).push([[333],{8287:a=>{a.exports=JSON.parse('{"tag":{"label":"Faq","permalink":"/docs/tags/faq","allTagsPath":"/docs/tags","count":1,"items":[{"id":"doc-with-tags","title":"Faq","description":"","permalink":"/docs/doc-with-tags"}],"unlisted":false}}')}}]);
